@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>É o primeiro signo astrológico do zodíaco, do elemento fogo. Regido por Marte, os arianos são impulsivos, sinceros, alegres e extrovertidos. É um signo que tem uma personalidade forte e o costume de ter um grande contato com a sua individualidade, além de serem bastante competitivos, o que pode soar um pouco autoritário.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>É segundo signo do zodíaco, do elemento terra. Regido por vênus, os taurinos são teimosos, pacientes e carinhosos com seus afetos. Conhecidos por serem “cabeça-dura”, uma das tarefas mais difíceis dos outros signos é tentar convencer um taurino de uma opinião diferente. Assim como os outros signos do seu elemento, é estável e confiável.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>gêmeos</signoNome>
+        <descricao>O signo de Gêmeos é o terceiro signo do Zodíaco, do elemento ar. Regidos por Mercúrio, os geminianos são comunicativos, versáteis e sociáveis. Gostam de criar linhas de raciocínio e especulações na tentativa de entender diversos assuntos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>21/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>O signo de câncer é o quarto signo do Zodíaco, do elemento água. Regido pela Lua, pode se identificar com características como a sensibilidade e o carinho. Um canceriano ou canceriana típicos costumam ter uma ótima intuição, além de um forte vínculo com seus familiares, e a busca constante por segurança.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>O signo Leão é o quinto signo do zodíaco. Regido pelo sol. Os nativos de Leão são conhecidos por serem expansivos, alegres, exuberantes e confiantes. São também considerados líderes natos, pois tomam frente das coisas e sentem-se donos da própria vida.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é o sexto signo do zodíaco. Regido por Mercúrio. Os nativos de Virgem são conhecidos por serem analíticos, detalhistas, práticos e organizados. Valorizam a ordem e a perfeição, e são conhecidos por sua habilidade em resolver problemas com precisão.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é o sétimo signo do zodíaco. Regido por Vênus. Os nativos de Libra são conhecidos por serem equilibrados, sociáveis, diplomáticos e apreciadores da beleza. Valorizam a harmonia e a justiça, e são frequentemente vistos como mediadores em conflitos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é o oitavo signo do zodíaco. Regido por Plutão e Marte. Os nativos de Escorpião são conhecidos por serem intensos, passionais, determinados e misteriosos. São profundos e têm uma capacidade única de regeneração, enfrentando as adversidades com força e resiliência.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é o nono signo do zodíaco. Regido por Júpiter. Os nativos de Sagitário são conhecidos por serem otimistas, aventureiros, extrovertidos e filosóficos. Valorizam a liberdade e estão sempre em busca de novas experiências e conhecimentos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é o décimo signo do zodíaco. Regido por Saturno. Os nativos de Capricórnio são conhecidos por serem disciplinados, responsáveis, ambiciosos e perseverantes. Valorizam a estabilidade e o sucesso, e são altamente focados em alcançar seus objetivos a longo prazo.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é o décimo primeiro signo do zodíaco. Regido por Urano e Saturno. Os nativos de Aquário são conhecidos por serem inovadores, independentes, visionários e humanitários. Valorizam a liberdade e a igualdade, e estão sempre à frente de seu tempo, buscando mudanças e avanços para a sociedade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é o décimo segundo signo do zodíaco. Regido por Netuno e Júpiter. Os nativos de Peixes são conhecidos por serem sensíveis, empáticos, criativos e intuitivos. Têm uma conexão profunda com o mundo espiritual e são frequentemente inspirados pelas artes e pela imaginação.</descricao>
+    </signo>
+</signos>
